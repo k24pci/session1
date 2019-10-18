@@ -1,0 +1,17 @@
+1. Implement a method return total sum of numbers from 1 up to a given integer n.
+   public int sumUpTo(int n);
+
+2. Implement a method that will return sum of given two BigDecimal values
+    public BigDecimal sum(BigDecimal value1, BigDecimal value2);
+    * value1 and value2 should be positive values.
+
+3. Implement a method which will convert a given int value to the corresponding day of week, given
+            1 - Monday
+            *
+            *
+            *
+            7 - Sunday
+    public String convert(byte value);
+
+WRITE BASIC FLOW AND ALTERNATIVE FLOW UNIT TESTS FOR IMPLEMENTATIONS.
+
